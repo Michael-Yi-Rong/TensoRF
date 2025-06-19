@@ -83,7 +83,11 @@ We provide two options for training on your own image set:
 1. Following the instructions in the [NSVF repo](https://github.com/facebookresearch/NSVF#prepare-your-own-dataset), then set the dataset_name to 'tankstemple'.
 2. Calibrating images with the script from [NGP](https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md):
 `python dataLoader/colmap2nerf.py --colmap_matcher exhaustive --run_colmap`, then adjust the datadir in `configs/your_own_data.txt`. Please check the `scene_bbox` and `near_far` if you get abnormal results.
-    
+
+# Result Samples
+![output](https://github.com/user-attachments/assets/550b6a6c-0762-4c47-bcc5-9f794a5e1e48)
+![output_](https://github.com/user-attachments/assets/c29cf2ca-2f16-495b-9513-123782afe871)
+
 
 ## Citation
 If you find our code or paper helps, please consider citing:
