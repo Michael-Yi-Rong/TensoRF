@@ -57,7 +57,8 @@ More options refer to the `opt.py`.
 ### For pretrained checkpoints and results please see:
 [https://1drv.ms/u/s!Ard0t_p4QWIMgQ2qSEAs7MUk8hVw?e=dc6hBm](https://1drv.ms/u/s!Ard0t_p4QWIMgQ2qSEAs7MUk8hVw?e=dc6hBm)
 
-
+## My Trained Models
+- https://pan.baidu.com/s/1sbNIjliCSaZpxcF2UFr2zA?pwd=8848
 
 ## Rendering
 
